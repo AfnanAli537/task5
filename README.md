@@ -27,7 +27,7 @@ assets/
 
 | 📱 Home Screen |
 |----------------|
-| ![Home](home task5.png) |
+| ![Home](home%20%task5.png) |
 
 
 
